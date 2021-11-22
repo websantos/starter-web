@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub works...
 by Jota...
 
 ## Introduction
+this is a introdution to show diferrent parts of the Git repository and various commands
+using a web project.
 
 ## Purpose
 
